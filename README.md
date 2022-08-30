@@ -12,4 +12,4 @@
 
 **技术大拿 ❌**
 
-**学过c c++ c# java python qt opencv mysql sqlite linux 网络编程 操作系统 计算机网络 汇编 等“众多”知识的牛马 ✅✅✅✅ **
+**学过c c++ c# java python qt opencv mysql sqlite linux 网络编程 操作系统 计算机网络 汇编 等“众多”知识的牛马 ✅✅✅✅**
