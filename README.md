@@ -14,7 +14,7 @@
 
 </div>
 
-![头像](微信图片_20250323213922.jpg)
+![头像](https://wx2.sinaimg.cn/mw2000/006IZwb5ly1hzr96lk0smj30ac09g74l.jpg)
 
 ![Visitor Count](https://profile-counter.glitch.me/Mq-b/count.svg)
 
