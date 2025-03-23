@@ -12,9 +12,10 @@
 ![](https://img.shields.io/badge/性格-开朗-red) 
 ![](https://img.shields.io/badge/爱好-二次元-red)
 
-</div>
 
-![头像](https://wx4.sinaimg.cn/mw690/006IZwb5ly1hzr9bay6u2j30wr0u0q6e.jpg)</center>
+<div style="text-align:center">
+  ![头像](https://wx4.sinaimg.cn/mw690/006IZwb5ly1hzr9bay6u2j30wr0u0q6e.jpg)
+</div>
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Mq-b/count.svg)
