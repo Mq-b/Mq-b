@@ -13,8 +13,8 @@
 ![](https://img.shields.io/badge/爱好-二次元-red)
 
 
-<div style="text-align:center">
-![头像](https://wx4.sinaimg.cn/mw690/006IZwb5ly1hzr9bay6u2j30wr0u0q6e.jpg)
+<div style="display:flex; justify-content:center; align-items:center; height:100vh;">
+  <img src="https://wx4.sinaimg.cn/mw690/006IZwb5ly1hzr9bay6u2j30wr0u0q6e.jpg" alt="头像">
 </div>
 
 
