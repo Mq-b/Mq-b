@@ -7,7 +7,7 @@
 <a href="https://space.bilibili.com/3494370273659502" target="_blank"><img  align=center src="https://img.shields.io/badge/bilibili-陈潇齐-%231677ff?style=flat"/></a>
 
 
-[![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
+<a href="" target="_blank"><img  align=center src="https://img.shields.io/badge/常用语言-python-%230ce7dd?style=flat"/></a>
 ![](https://img.shields.io/badge/喜欢-学习-yellow) 
 ![](https://img.shields.io/badge/游戏-csgo-red) 
 ![](https://img.shields.io/badge/爱好-运动-red)
