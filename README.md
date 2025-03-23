@@ -14,7 +14,7 @@
 
 
 <div style="text-align:center">
-  ![头像](https://wx4.sinaimg.cn/mw690/006IZwb5ly1hzr9bay6u2j30wr0u0q6e.jpg)
+![头像](https://wx4.sinaimg.cn/mw690/006IZwb5ly1hzr9bay6u2j30wr0u0q6e.jpg)
 </div>
 
 
