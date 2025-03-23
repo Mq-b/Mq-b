@@ -1,6 +1,6 @@
 <div id="title" align=center>
 
-![Modern C++ template][github-sub-title:img]
+<a href="" target="_blank"><img  align=center src="https://img.shields.io/badge/常用语言-python-%230ce7dd?style=flat"/></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaxizuishuai&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
