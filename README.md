@@ -2,7 +2,7 @@
 
 ![Modern C++ template][github-sub-title:img]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaxizuishuai&show_icons=true&theme=transparent)](https://b23.tv/iEJTnPp)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaxizuishuai&show_icons=true&bg_color=30,0A1120,1E3A8A&title_color=fff&text_color=fff&icon_color=58A6FF)](https://b23.tv/iEJTnPp)
 
 <a href="https://space.bilibili.com/3494370273659502" target="_blank"><img  align=center src="https://img.shields.io/badge/bilibili-陈潇齐-%231677ff?style=flat"/></a>
 
